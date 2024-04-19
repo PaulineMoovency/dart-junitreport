@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.0.5
+
+* Updating dependencies
+  **intl from 0.18.0 to 0.19.0
+
 ## 2.0.4
 
 * Updating dependencies
