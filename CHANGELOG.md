@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.0.6
+
+* Updating dependencies
+  **intl from 0.19.0 to 0.20.2
+  **lints from 3.0.0 to 5.1.1
+
 ## 2.0.5
 
 * Updating dependencies
