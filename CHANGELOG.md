@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.7
+
+* Downgrade intl to 0.19.0, Flutter does not yet support version 0.20.2
+
 ## 2.0.6
 
 * Updating dependencies
